@@ -105,3 +105,11 @@ Crea un archivo JS que contenga las siguientes líneas
 - Una función sin parámetros que devuelva siempre "true"
 - Una función asíncrona que utilice un setTimeout y pase por consola un "Hola soy una promesa" 5 segundos después de haberse ejecutado
 - Una función generadora de índices pares automáticos
+
+### Exercise 9:
+
+Crea un nuevo proyecto de Node
+
+- Instala la dependencia Winston
+- En el archivo index.js crea una función que devuelva un error con un mensaje personalizado
+- Registra el error en un archivo a través de un try...catch
