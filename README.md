@@ -97,3 +97,11 @@ Crea un archivo llamado fechas.js que contenga las siguientes líneas
 - Abre una nueva ventana "about:blank" en Google Chrome
 - Abre la consola de desarrollador de Google Chrome (F12)
 - Pregunta al usuario cuál es su edad y almacénala en una variable llamada edad
+
+### Exercise 8:
+
+Crea un archivo JS que contenga las siguientes líneas
+
+- Una función sin parámetros que devuelva siempre "true"
+- Una función asíncrona que utilice un setTimeout y pase por consola un "Hola soy una promesa" 5 segundos después de haberse ejecutado
+- Una función generadora de índices pares automáticos
