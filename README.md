@@ -124,3 +124,14 @@ Crea un nuevo proyecto de Node
 - El entrypoint index.js debe utilizar las funciones del módulo para devolver la multiplicación de suma(1, 2) y suma(4, 5)
 - Instala e importa la librería chalk (https://www.npmjs.com/package/chalk)
 - Modifica el último console.log del entrypoint index.js para devolver el resultado en color verde
+
+### Exercise 11:
+
+Crea un nuevo fichero JS que contenga las siguientes líneas
+
+- Una clase llamada "Estudiante" que tenga:
+- Una variable llamada nombre
+- Otra variable lista llamada asignaturas con 3 asignaturas: Javascript, HTML, CSS
+- Un método "obtenDatos" que devuelva un objeto con las propiedades nombre y asignaturas
+- Crea una nueva instancia de "Estudiante"
+- Haz la llamada al método obtenDatos
