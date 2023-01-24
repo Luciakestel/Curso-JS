@@ -18,4 +18,4 @@ localStorage.setItem('info', JSON.stringify(info));
 
 
 document.cookie = "nombreCookie=Lucia Kestel";
-document.cookie = "nombreCaducidad=Lucia Kestel; expires=" ;
+document.cookie = "nombreCaducidad=Lucia Kestel; expires=" + new Date(now.getTime() + 2 * 60000) ;
