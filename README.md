@@ -190,3 +190,10 @@ Crea un nuevo proyecto de Node
 - Observa cómo la SessionStorage está vacía
 - Observa cómo la LocalStorage sigue manteniendo el objeto que has almacenado antes de cerrar el navegador
 - Observa cómo la cookie sigue manteniendo el objeto que has almacenado antes, aunque ya está caducado
+
+### Exercise 16:
+
+- Replica el ejercicio completo del vídeo
+- Añade dos párrafos más en cada una de las secciones
+- Pon un icono de papelera para eliminar párrafos (Esta imagen puede valer: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSMWeEC0tULzOjfWFAOdOHjUw9WjXhBDbirg&usqp=CAU)
+- Añade el código necesario para que al arrastrar un fragmento del puzzle a la papelera, éste se elimine
